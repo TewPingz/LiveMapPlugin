@@ -1,0 +1,7 @@
+name: LMP
+version: '${project.version}'
+main: me.tewpingz.lmp.LMP
+api-version: 1.19
+authors: [ TewPingz ]
+description: A plugin that was made for a Senior Team client
+website: https://www.tewpingz.me
